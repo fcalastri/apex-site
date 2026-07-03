@@ -8,4 +8,4 @@ pages_build_output_dir = "."
 [[d1_databases]]
 binding = "DB"
 database_name = "apex-early-access"
-database_id = "REPLACE_WITH_DATABASE_ID"   # from: wrangler d1 create apex-early-access
+database_id = "33a22c5d-fa8a-43d8-b0c8-f3d0ef1961a2"   # from: wrangler d1 create apex-early-access
