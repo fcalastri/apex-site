@@ -11,11 +11,11 @@
     var saved = localStorage.getItem('apex_lang');
     if (saved) {
       if (isHome) {
-        if (saved === 'it' && !onIT) location.replace('it/index.html');
-        if (saved === 'en' && onIT) location.replace('../index.html');
+        if (saved === 'it' && !onIT) location.replace('/it/');
+        if (saved === 'en' && onIT) location.replace('/');
       }
     } else if (isHome && !onIT) {
-      if ((navigator.language || '').toLowerCase().indexOf('it') === 0) location.replace('it/index.html');
+      if ((navigator.language || '').toLowerCase().indexOf('it') === 0) location.replace('/it/');
     }
     doc.querySelectorAll('[data-lang]').forEach(function (a) {
       a.addEventListener('click', function () { localStorage.setItem('apex_lang', a.getAttribute('data-lang')); });
