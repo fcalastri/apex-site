@@ -1,0 +1,51 @@
+# APEX — robots.txt
+# Obiettivo: sito crawler-first. Tutti i crawler utili possono accedere a tutto.
+# Nessuna pagina importante bloccata. Sitemap dichiarata.
+
+User-agent: *
+Allow: /
+
+# --- Crawler AI dichiarati esplicitamente (redundante ma segnala intento) ---
+# Non stiamo bloccando: li nominiamo per chiarezza e per poter gestire
+# crawl-delay in futuro se servisse.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+Sitemap: https://apex-rider.com/sitemap.xml
