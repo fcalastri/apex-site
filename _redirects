@@ -1,0 +1,50 @@
+# APEX — redirects (Cloudflare Pages)
+#
+# Two jobs:  1) legacy vanity URLs  2) .html -> clean canonical URL
+#
+# Every destination is a final 200 URL. No rule points at another rule, so no
+# request ever takes more than one hop. Destinations carry NO trailing slash:
+# Cloudflare Pages 308s /foo.html to /foo for leaf pages, so a stale
+# trailing slash here would silently turn one hop into two — EXCEPT for the
+# three directory index pages (/it/, /answers/, /it/risposte/), where Pages
+# canonicalises the other way and the slash is required.
+
+# --- legacy vanity URLs ---
+/how-it-works.html                                      /product                                          301
+/how-it-works                                           /product                                          301
+/it/come-funziona.html                                  /it/prodotto                                      301
+/it/come-funziona                                       /it/prodotto                                      301
+/for-riders.html                                        /pricing                                          301
+/for-riders                                             /pricing                                          301
+/it/per-i-piloti.html                                   /it/prezzi                                        301
+/it/per-i-piloti                                        /it/prezzi                                        301
+/contact                                                /beta                                             301
+/it/contatti                                            /it/beta                                          301
+
+# --- dead paths Canopy caught looping (/login.html <-> /login) ---
+/login.html                                             /beta                                             301
+/login                                                  /beta                                             301
+/it/login.html                                          /it/beta                                          301
+/it/login                                               /it/beta                                          301
+
+# --- .html -> clean canonical URL ---
+/index.html                                             /                                                 301
+/product.html                                           /product                                          301
+/pricing.html                                           /pricing                                          301
+/beta.html                                              /beta                                             301
+/answers/index.html                                     /answers/                                         301
+/answers/how-to-know-if-you-ride-well.html              /answers/how-to-know-if-you-ride-well             301
+/answers/how-to-improve-cornering.html                  /answers/how-to-improve-cornering                 301
+/answers/riding-coach-cost.html                         /answers/riding-coach-cost                        301
+/answers/motorcycle-telemetry-road.html                 /answers/motorcycle-telemetry-road                301
+/answers/first-track-day-guide.html                     /answers/first-track-day-guide                    301
+/it/index.html                                          /it/                                              301
+/it/prodotto.html                                       /it/prodotto                                      301
+/it/prezzi.html                                         /it/prezzi                                        301
+/it/beta.html                                           /it/beta                                          301
+/it/risposte/index.html                                 /it/risposte/                                     301
+/it/risposte/capire-se-guidi-bene-in-moto.html          /it/risposte/capire-se-guidi-bene-in-moto         301
+/it/risposte/migliorare-in-curva-in-moto.html           /it/risposte/migliorare-in-curva-in-moto          301
+/it/risposte/quanto-costa-un-corso-di-guida-moto.html   /it/risposte/quanto-costa-un-corso-di-guida-moto  301
+/it/risposte/telemetria-moto-stradale.html              /it/risposte/telemetria-moto-stradale             301
+/it/risposte/primo-track-day-come-prepararsi.html       /it/risposte/primo-track-day-come-prepararsi      301

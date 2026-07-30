@@ -1,0 +1,59 @@
+# APEX
+
+> APEX turns every motorcycle ride into a review. A kit fitted to the bike reads
+> line, braking and throttle, and after the ride sends a corner-by-corner review
+> to the rider's phone: what worked, what to fix, and a single priority for the
+> next ride. One price includes the kit, installation and 12 months of reviews —
+> there is no monthly subscription.
+
+APEX is pre-launch and in early access. Nothing is sold on the website: a rider
+submits the early-access form, APEX contacts them to confirm pack, bike
+compatibility and delivery timing, and payment is arranged only after that.
+
+## Product
+
+- Review after every ride: line vs ideal line, braking points, throttle
+  progression, corner by corner, with what went right highlighted alongside what
+  to correct.
+- One priority per review: a single thing to work on next time out, not a list.
+- Progress across sessions: smoothness, braking and line scored over time and
+  compared like-for-like against previous rides on similar roads.
+- Nothing to watch while riding: no screen, no interaction in the saddle. The
+  review arrives once the helmet is off.
+- Works on road, mountain passes and track. Designed to fit any motorcycle,
+  from naked to adventure, without touching the bike's own electronics.
+
+## Pricing (early access, one-time, all included)
+
+- APEX Start — €49.90 — kit + installation + 12 months of reviews. Reserved for
+  riders under 25 or licensed less than 12 months.
+- APEX Rider — €89.90 — kit + installation + 12 months of reviews. No eligibility
+  requirements.
+- APEX Pro — €179.90 — everything in Rider plus advanced lap-by-lap track
+  analysis. Pre-order opening soon.
+
+Installation is included in every pack. There is no automatic renewal and no
+stored payment method; before the 12 months expire APEX presents the options.
+
+## Pages
+
+- [Home (EN)](https://apex-rider.com/): what APEX is and who it is for.
+- [Product](https://apex-rider.com/product): anatomy of a review, the kit, how progress is measured.
+- [Pricing](https://apex-rider.com/pricing): the three packs side by side and how buying works.
+- [Early access](https://apex-rider.com/beta): the request form.
+- [Guides](https://apex-rider.com/answers/): riding-technique guides.
+- [Home (IT)](https://apex-rider.com/it/) · [Prodotto](https://apex-rider.com/it/prodotto) · [Prezzi](https://apex-rider.com/it/prezzi) · [Early access](https://apex-rider.com/it/beta) · [Guide](https://apex-rider.com/it/risposte/)
+
+## Guides
+
+- [How to know if you ride well](https://apex-rider.com/answers/how-to-know-if-you-ride-well)
+- [How to improve cornering](https://apex-rider.com/answers/how-to-improve-cornering)
+- [What a riding course costs](https://apex-rider.com/answers/riding-coach-cost)
+- [Motorcycle telemetry on the road](https://apex-rider.com/answers/motorcycle-telemetry-road)
+- [Preparing for a first track day](https://apex-rider.com/answers/first-track-day-guide)
+
+Italian versions of all five live under https://apex-rider.com/it/risposte/
+
+## Contact
+
+hello@apex-rider.com — the site is available in English and Italian.

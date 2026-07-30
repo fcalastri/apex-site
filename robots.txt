@@ -1,0 +1,88 @@
+# APEX — robots.txt
+# Sito crawler-first: ogni crawler utile accede a tutto, nessuna pagina
+# importante bloccata, sitemap dichiarata.
+#
+# I gruppi nominati sotto sono ridondanti rispetto a "User-agent: *": esistono
+# per rendere l'intento esplicito e per poter differenziare in futuro senza
+# riscrivere il file.
+
+User-agent: *
+Allow: /
+
+# --- Search ---
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+# --- Answer engines / AI assistants ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# --- Training / dataset crawlers (deliberately allowed: pre-launch reach
+#     is worth more than corpus exclusion) ---
+User-agent: CCBot
+Allow: /
+
+User-agent: Ai2Bot
+Allow: /
+
+Sitemap: https://apex-rider.com/sitemap.xml
+
+# Machine-readable summary of the product, packs and page map:
+# https://apex-rider.com/llms.txt
