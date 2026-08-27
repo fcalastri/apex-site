@@ -31,6 +31,7 @@ export async function onRequestPost(context) {
   const lang = f('lang', 2) === 'it' ? 'it' : 'en';
   if (f('website', 10)) return redirectOk(lang);
 
+  // Footer newsletter reuses this endpoint (pack=newsletter, name=Newsletter).
   const name = f('name', 120);
   const email = f('email', 200);
   const pack = f('pack', 40);
@@ -109,6 +110,6 @@ export async function onRequestPost(context) {
 function redirectOk(lang) {
   return new Response(null, {
     status: 303,
-    headers: { Location: lang === 'it' ? '/it/beta.html?sent=1' : '/beta.html?sent=1' },
+    headers: { Location: lang === 'it' ? '/it/accesso-anticipato?sent=1' : '/early-access?sent=1' },
   });
 }
