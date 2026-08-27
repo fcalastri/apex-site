@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Richiedi accesso anticipato — APEX</title>
+<meta name="description" content="Trenta secondi, sei campi, nessun pagamento ora. Ti contattiamo per confermare pack e moto.">
+<link rel="canonical" href="https://apex-rider.com/it/accesso-anticipato">
+<link rel="alternate" hreflang="en" href="https://apex-rider.com/early-access">
+<link rel="alternate" hreflang="it" href="https://apex-rider.com/it/accesso-anticipato">
+<link rel="alternate" hreflang="x-default" href="https://apex-rider.com/early-access">
+<meta property="og:type" content="website"><meta property="og:site_name" content="APEX"><meta property="og:locale" content="it_IT">
+<meta property="og:title" content="Richiedi accesso anticipato — APEX"><meta property="og:description" content="Trenta secondi, sei campi, nessun pagamento ora. Ti contattiamo per confermare pack e moto."><meta property="og:url" content="https://apex-rider.com/it/accesso-anticipato"><meta property="og:image" content="https://apex-rider.com/assets/apex-og-it.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0B0F14">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="icon" href="/assets/favicon-32.png" sizes="32x32"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="/apex.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://apex-rider.com/#org", "name": "APEX", "url": "https://apex-rider.com/", "logo": "https://apex-rider.com/assets/apex-og.png", "email": "hello@apex-rider.com", "address": {"@type": "PostalAddress", "addressLocality": "Milano", "addressCountry": "IT"}}, {"@type": "WebSite", "@id": "https://apex-rider.com/#site", "url": "https://apex-rider.com/", "name": "APEX", "inLanguage": "it", "publisher": {"@id": "https://apex-rider.com/#org"}}, {"@type": "WebPage", "@id": "https://apex-rider.com/it/accesso-anticipato", "url": "https://apex-rider.com/it/accesso-anticipato", "name": "Richiedi accesso anticipato — APEX", "description": "Trenta secondi, sei campi, nessun pagamento ora. Ti contattiamo per confermare pack e moto.", "inLanguage": "it", "isPartOf": {"@id": "https://apex-rider.com/#site"}}]}</script>
+</head>
+<body>
+<a class="sr-only" href="#main">Skip to content</a>
+<header class="site-header"><div class="wrap">
+  <a class="brand" href="/it/" aria-label="APEX home"><span class="brand-mark"><svg viewBox="0 0 16 16" fill="none" stroke="#B8FF2C" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 13 8 3l6 10M5 10h6"/></svg></span>APEX</a>
+  <nav class="site-nav" aria-label="Main"><a href="/it/come-funziona">Come funziona</a><a href="/it/recensioni">Recensioni</a><a href="/it/guide/">Guide</a><a href="/it/prodotto">Acquista</a></nav>
+  <div class="header-actions">
+    <div class="lang-switch"><a href="/early-access" data-lang="en" hreflang="en">EN</a><a href="/it/accesso-anticipato" data-lang="it" class="is-active" hreflang="it">IT</a></div>
+    <a class="btn btn-primary btn-sm" href="/it/accesso-anticipato">Richiedi accesso anticipato</a>
+    <button class="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span></button>
+  </div>
+</div></header>
+<main id="main">
+
+<section class="hero" style="padding-bottom:0"><div class="wrap"><div class="hero-grid" style="align-items:start">
+  <div><span class="eyebrow">Accesso anticipato · posti del primo lotto</span><h1 style="font-size:clamp(36px,5vw,64px)">Richiedi accesso anticipato.</h1><p class="lead">Trenta secondi, nessun pagamento ora. Ti contattiamo per confermare il pack, verificare la compatibilità con la tua moto e gestire l&#x27;ordine. Il prezzo dell&#x27;accesso anticipato resta bloccato.</p>
+    <div class="skills stack-2" style="grid-template-columns:1fr"><div class="skill"><span class="mono" style="color:var(--lime-ink)">1</span><h3 style="margin-top:8px">Compila il form</h3><p>Trenta secondi.</p></div><div class="skill"><span class="mono" style="color:var(--lime-ink)">2</span><h3 style="margin-top:8px">Ti scriviamo</h3><p>Dettagli del pack, tempi, le tue domande.</p></div><div class="skill"><span class="mono" style="color:var(--lime-ink)">3</span><h3 style="margin-top:8px">Pagamento e consegna</h3><p>Concordati insieme, dopo aver confermato la moto.</p></div></div>
+    <div class="stack-2"><h3>Preferisci scriverci direttamente?</h3><p class="muted sub">Domande sul prodotto, sui pack o sulla tua moto: una email e rispondiamo noi.</p><p style="margin-top:10px"><a class="link" href="mailto:hello@apex-rider.com">hello@apex-rider.com</a></p></div>
+  </div>
+  <div>
+    <form class="form" id="early-access-form" method="POST" action="/api/early-access">
+      <input type="hidden" name="lang" value="it"><input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <div class="row"><div class="field"><label for="f-name">Nome</label><input id="f-name" name="name" required autocomplete="name"></div><div class="field"><label for="f-email">Email</label><input id="f-email" type="email" name="email" required autocomplete="email"></div></div>
+      <div class="field"><label for="f-pack">Quale pack?</label><select id="f-pack" name="pack" required><option value="">Scegli un pack</option><option value="Start €49,90">APEX Start — 49,90 € (under 25 / patente &lt; 12 mesi)</option><option value="Rider €89,90">APEX Rider — 89,90 €</option><option value="Pro €179,90 (notify)">APEX Pro — 179,90 € (avvisami al pre-ordine)</option></select></div>
+      <div class="row"><div class="field"><label for="f-bike">Cosa guidi?</label><input id="f-bike" name="bike" placeholder="es. Yamaha MT-07, 2021"></div><div class="field"><label for="f-usage">Come guidi di più?</label><select id="f-usage" name="usage"><option value="">Scegli</option><option value="road-weekend">Weekend / strade di montagna</option><option value="commuting">Tutti i giorni / pendolare</option><option value="track">Track day</option><option value="mixed">Un po&#x27; di tutto</option></select></div></div>
+      <label class="check"><input type="checkbox" name="consent" required><span>Accetto di essere contattato da APEX per la mia richiesta di accesso anticipato (<a href="/it/legal/privacy">informativa privacy</a>).</span></label>
+      <button class="btn btn-primary btn-lg" type="submit">Richiedi accesso anticipato <span class="arr">→</span></button>
+      <p class="form-note">Nessun pagamento ora. Ti contattiamo per confermare il pack e gestire l&#x27;ordine.</p>
+      <p id="early-access-err" class="notice" hidden style="margin-top:14px"></p>
+    </form>
+    <div class="form-ok" id="early-access-ok" role="status"><h3>✓ Sei in lista.</h3><p class="sub">Grazie per aver alzato la mano. Distribuiamo il primo lotto a piccole ondate e ti scriviamo appena si apre un posto per come e dove guidi.</p></div>
+  </div>
+</div></div></section>
+<section class="section-tight"><div class="wrap"><div class="trust"><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8 12 3 3 8v8l9 5 9-5V8z"/><path d="m3 8 9 5 9-5M12 13v8"/></svg><div><b>Montaggio incluso</b><span>Il kit arriva a casa e organizziamo noi il montaggio. Tu guidi e basta.</span></div></div><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="3"/><path d="M3 10h18M8 2v4M16 2v4"/></svg><div><b>12 mesi di review inclusi</b><span>Un prezzo, un anno. Nessun abbonamento, nessun rinnovo automatico.</span></div></div><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6l-8-3z"/><path d="m9 12 2 2 4-4"/></svg><div><b>Nessun pagamento finché non confermiamo la moto</b><span>Prima verifichiamo la compatibilità con il tuo modello, poi parliamo di pagamento.</span></div></div></div></div></section>
+</main>
+<footer class="site-footer"><div class="wrap">
+  <div class="foot-grid">
+    <div class="foot-brand"><a class="brand" href="/it/"><span class="brand-mark"><svg viewBox="0 0 16 16" fill="none" stroke="#B8FF2C" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 13 8 3l6 10M5 10h6"/></svg></span>APEX</a>
+      <p>Il coach di guida che lavora dopo il giro. Kit, montaggio e 12 mesi di review curva per curva, un solo prezzo.</p>
+      <form class="newsletter" id="newsletter-form" data-ok="Fatto. Scriviamo solo quando c&#x27;è qualcosa da dire." aria-label="Aggiornamenti dal primo lotto"><input type="hidden" name="lang" value="it"><input class="hp" type="text" name="website" tabindex="-1" autocomplete="off"><input type="email" name="email" required placeholder="La tua email" aria-label="La tua email"><button type="submit">Iscriviti</button></form>
+    </div>
+    <div><h4>Prodotto</h4><ul><li><a href="/it/prodotto">Kit APEX e pack</a></li><li><a href="/it/come-funziona">Come funziona</a></li><li><a href="/it/recensioni">Recensioni</a></li><li><a href="/it/faq">FAQ</a></li></ul></div><div><h4>Azienda</h4><ul><li><a href="/it/storia">La nostra storia</a></li><li><a href="/it/pro">Per istruttori e scuole</a></li><li><a href="/it/guide/">Guide</a></li><li><a href="/it/contatti">Contatti</a></li></ul></div><div><h4>Legale</h4><ul><li><a href="/it/legal/termini">Termini</a></li><li><a href="/it/legal/privacy">Privacy</a></li><li><a href="/it/legal/garanzia">Garanzia</a></li><li><a href="/it/legal/resi">Resi</a></li></ul></div>
+  </div>
+  <div class="foot-bottom"><span>© 2026 APEX Srl · Ogni giro diventa una review. · APEX Srl · Milano</span><span class="social"><a href="mailto:hello@apex-rider.com">hello@apex-rider.com</a><a href="#main">Torna su ↑</a></span></div>
+</div></footer>
+<script src="/apex.js" defer></script>
+</body>
+</html>

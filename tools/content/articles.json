@@ -1,0 +1,842 @@
+{
+ "how-to-know-if-you-ride-well": {
+  "en": {
+   "title": "How do I know if I ride well?",
+   "eyebrow": "",
+   "lead": "On your own it's hard to tell: the feeling of being in control doesn't always match the reality of your line, braking and throttle. The reliable way is to objectively compare what you actually did in each corner against what would have worked better — a review after every ride, not just a feeling at the end of the day.",
+   "blocks": [
+    [
+     "h2",
+     "Why it's hard to judge yourself"
+    ],
+    [
+     "p",
+     "The feeling in the saddle is a poor measuring instrument. A ride can feel smooth simply because you weren't scared, not because the line was correct. Conversely, a corner ridden with a couple of corrections can feel like you \"fought the bike\", when the trajectory was already reasonably clean and the real issue was somewhere else — maybe the braking point, ten metres earlier."
+    ],
+    [
+     "p",
+     "Under the effort of riding, the brain tracks very few things: fear, adrenaline, engine noise. It doesn't keep a reliable log of where you started braking relative to a sign, how far the bike was leaned at the apex, or how much throttle you applied on exit relative to what the bike could actually handle. That information is lost the instant it happens."
+    ],
+    [
+     "h2",
+     "The signals you usually watch — and why they mislead you"
+    ],
+    [
+     "p",
+     "<strong>Corner speed.</strong> Going faster than last time doesn't mean you're riding better: you can gain time by compensating a line error with more courage on the throttle, which is riskier, not improvement."
+    ],
+    [
+     "p",
+     "<strong>The absence of a scary moment.</strong> Not feeling like you made a mistake doesn't mean the trajectory was optimal. Many errors — braking started too early, an apex hit too soon — produce no negative sensation at all: you simply don't use the corner's full potential, but everything \"feels normal\"."
+    ],
+    [
+     "p",
+     "<strong>Comparing yourself to others.</strong> Following someone who looks faster tells you little about your own technique: that rider may have a different bike, a road they know by heart, or simply be using more margin of risk than you'd want to."
+    ],
+    [
+     "h2",
+     "What a real instructor or coach actually looks at"
+    ],
+    [
+     "p",
+     "Someone who assesses riding professionally doesn't rely on feeling, but on objective, repeatable points: where braking starts relative to the corner, how progressive the release is, where the apex falls relative to the ideal one, when and how much throttle is reapplied on exit. These are the same kind of elements a tennis coach looks at in a shot replay, or a football coach looks at in a play on video."
+    ],
+    [
+     "p",
+     "The difference between a rider who improves fast and one who stays at the same level for years is often not talent: it's access to this kind of repeated feedback. Whoever gets it — at a course, with a track coach, or after every ride through a review — knows exactly what to work on. Whoever doesn't keeps repeating the same pattern, convinced they're improving because it \"feels\" more confident."
+    ],
+    [
+     "h2",
+     "How to start measuring it, ride after ride"
+    ],
+    [
+     "p",
+     "The first concrete step is to stop relying only on memory and start comparing rides against each other with objective data: where you braked three weeks ago compared to today, how your smoothness score moves over time, whether the priority from your last review was actually resolved or not."
+    ],
+    [
+     "p",
+     "That's exactly the gap <a href=\"/product\">APEX</a> is built to close: after every ride you get a review with your line compared against the ideal one, point by point on braking and throttle, and a single priority to work on next time out. It doesn't replace time in the saddle — it makes it legible."
+    ]
+   ],
+   "faq": [
+    [
+     "Can I tell if I ride well just by looking at speed?",
+     "No. Corner speed depends on too many variables — bike, road, how much risk you're accepting — to be a reliable indicator of your technique. Two riders can take the same corner at the same speed with very different levels of control."
+    ],
+    [
+     "Is a safety riding course enough to improve steadily?",
+     "A course gives a valuable foundation, but it's a one-off event: most riders do one per year, if that. Steady improvement requires repeated feedback over time, not just a single day of intensive training."
+    ],
+    [
+     "How long does it take to see measurable progress?",
+     "It depends on your starting point and how often you ride, but with structured feedback after every session the first visible changes — fewer mid-corner corrections, more consistent braking — typically show up within a few weeks of regular riding."
+    ],
+    [
+     "Is a feeling of confidence a good indicator?",
+     "It's a partial one. Perceived confidence can grow simply from getting used to a road, even without any real technical improvement. It should be checked against objective riding data, not taken on its own."
+    ]
+   ],
+   "cta_h": "Want an objective answer, not just a feeling?",
+   "cta_p": "With APEX, every ride becomes a review: you know what you did right, what to fix, and you see your progress over time.",
+   "description": "How to tell if you ride well without trusting feel alone: the signals that mislead, what an instructor actually looks at, how to measure it."
+  },
+  "it": {
+   "title": "Come faccio a sapere se guido bene in moto?",
+   "eyebrow": "",
+   "lead": "Da solo è difficile: la sensazione di controllo non coincide sempre con la realtà della linea, della frenata e del gas. Il modo più affidabile è confrontare oggettivamente cosa hai fatto in ogni curva con cosa avrebbe funzionato meglio — cioè avere una review dopo ogni uscita, non solo una sensazione a fine giornata.",
+   "blocks": [
+    [
+     "h2",
+     "Perché è difficile giudicarsi da soli"
+    ],
+    [
+     "p",
+     "La sensazione in sella è un pessimo strumento di misura. Un giro può sembrare fluido perché non hai avuto paura, non perché la linea fosse quella giusta. Al contrario, una curva percorsa con qualche correzione può darti l'impressione di aver \"lottato con la moto\", quando in realtà la traiettoria era già abbastanza pulita e il problema era altrove — magari nella frenata, dieci metri prima."
+    ],
+    [
+     "p",
+     "Il cervello, sotto lo sforzo di guidare, tiene traccia di poche cose: la paura, l'adrenalina, il rumore del motore. Non tiene un registro affidabile di dove hai iniziato a frenare rispetto al cartello, di quanto la moto era inclinata nel punto di corda, o di quanto gas hai dato in uscita rispetto a quanto la moto avrebbe potuto reggere. Sono informazioni che si perdono nell'istante in cui accadono."
+    ],
+    [
+     "h2",
+     "I segnali a cui guardi di solito — e perché ingannano"
+    ],
+    [
+     "p",
+     "<strong>La velocità di percorrenza.</strong> Andare più veloce di prima non significa guidare meglio: puoi guadagnare tempo compensando un errore di linea con più coraggio in accelerazione, il che è rischioso, non è miglioramento."
+    ],
+    [
+     "p",
+     "<strong>L'assenza di errori percepiti.</strong> Non sentire di aver sbagliato non vuol dire che la traiettoria fosse ottimale. Molti errori — una frenata iniziata troppo presto, un apex anticipato — non producono nessuna sensazione negativa: semplicemente non sfrutti il potenziale della curva, ma tutto \"sembra normale\"."
+    ],
+    [
+     "p",
+     "<strong>Il confronto con gli altri.</strong> Seguire qualcuno che sembra più veloce di te dice poco sulla tua tecnica: quella persona può avere una moto diversa, una strada che conosce a memoria, o semplicemente più margine di rischio che sta usando."
+    ],
+    [
+     "h2",
+     "Cosa guarda davvero un istruttore o un coach"
+    ],
+    [
+     "p",
+     "Chi valuta la guida professionalmente non si basa sulla sensazione, ma su punti oggettivi e ripetibili: dove inizia la frenata rispetto alla curva, quanto è progressivo il rilascio del freno, dove si trova il punto di corda rispetto a quello ideale, quando e quanto si riapre il gas in uscita. Sono gli stessi elementi che un allenatore di tennis guarda nel replay di un colpo, o che un allenatore di calcio guarda nel video di un'azione."
+    ],
+    [
+     "p",
+     "La differenza tra un rider che migliora in fretta e uno che resta fermo allo stesso livello per anni, spesso, non è il talento: è l'accesso a questo tipo di feedback ripetuto. Chi lo riceve — a un corso, con un coach in pista, o dopo ogni uscita con una review — sa esattamente su cosa lavorare. Chi non lo riceve continua a ripetere lo stesso schema, convinto che stia migliorando perché \"si sente\" più sicuro."
+    ],
+    [
+     "h2",
+     "Come iniziare a misurarlo, uscita dopo uscita"
+    ],
+    [
+     "p",
+     "Il primo passo concreto è smettere di affidarsi solo alla memoria e iniziare a confrontare le uscite tra loro con dati oggettivi: dove frenavi tre settimane fa rispetto a oggi, come si muove il punteggio di fluidità nel tempo, se la priorità che ti eri dato nell'ultima review è stata davvero risolta o no."
+    ],
+    [
+     "p",
+     "È esattamente il vuoto che <a href=\"/it/prodotto\">APEX</a> è pensato per colmare: dopo ogni uscita ricevi una review con la tua linea a confronto con quella ideale, punto per punto su frenata e gas, e una sola priorità su cui lavorare al giro successivo. Non sostituisce l'esperienza in sella — la rende leggibile."
+    ]
+   ],
+   "faq": [
+    [
+     "Posso capire se guido bene guardando solo la velocità?",
+     "No. La velocità di percorrenza dipende da troppe variabili — moto, strada, quanto rischio stai accettando — per essere un indicatore affidabile della tua tecnica. Due persone possono percorrere la stessa curva alla stessa velocità con un livello di controllo molto diverso."
+    ],
+    [
+     "Un corso di guida sicura basta per migliorare stabilmente?",
+     "Un corso dà una base preziosa, ma è un evento isolato: la maggior parte dei rider ne fa uno l'anno, se va bene. Il miglioramento stabile richiede feedback ripetuto nel tempo, non solo un giorno di formazione intensiva."
+    ],
+    [
+     "Quanto tempo serve per vedere dei progressi misurabili?",
+     "Dipende dal punto di partenza e dalla frequenza delle uscite, ma con un feedback strutturato dopo ogni sessione i primi cambiamenti visibili — meno correzioni a metà curva, frenate più consistenti — emergono tipicamente nell'arco di alcune settimane di guida regolare."
+    ],
+    [
+     "La sensazione di sicurezza è un buon indicatore?",
+     "È un indicatore parziale. La sicurezza percepita può crescere semplicemente per abitudine alla strada, anche senza un reale miglioramento tecnico. Va incrociata con dati oggettivi sulla guida, non presa da sola."
+    ]
+   ],
+   "cta_h": "Vuoi una risposta oggettiva, non una sensazione?",
+   "cta_p": "Con APEX ogni uscita diventa una review: sai cosa hai fatto bene, cosa correggere, e vedi i progressi nel tempo.",
+   "description": "Come capire se guidi bene in moto senza affidarti alla sensazione: i segnali che ingannano e cosa guarda davvero un istruttore."
+  },
+  "slug_it": "capire-se-guidi-bene-in-moto",
+  "topic": "self-assessment"
+ },
+ "how-to-improve-cornering": {
+  "en": {
+   "title": "How to improve cornering on a motorcycle",
+   "eyebrow": "",
+   "lead": "Improving your cornering means working on three separate phases — entry braking, apex, exit throttle — one at a time, with clear feedback on which of the three is actually costing you time or safety. Trying to \"improve overall\" without isolating the right phase is why many riders stay stuck at the same level for years.",
+   "blocks": [
+    [
+     "h2",
+     "The anatomy of a well-ridden corner"
+    ],
+    [
+     "p",
+     "Every corner splits into three phases that should be judged separately. <strong>Entry</strong>: braking starts at the right point (not too early, which loses time and slows your entry, nor too late, which forces a mid-corner correction) and releases progressively, not all at once. <strong>The apex</strong>: where the bike touches the innermost point of the line — too early \"closes\" the corner and forces you wide on exit, too late leaves you entering wider than necessary. <strong>Exit</strong>: how much and how quickly you reopen the throttle, which determines both your exit speed and how stable the bike is while you do it."
+    ],
+    [
+     "p",
+     "Most riders think of a corner as one fluid action. It's actually a sequence of three decisions, and the problem is almost always in just one of the three — not all three at once. Isolating your real weak point is the first step to actually working on it."
+    ],
+    [
+     "h2",
+     "The most common mistakes, and why they keep repeating"
+    ],
+    [
+     "p",
+     "<strong>Braking too early.</strong> The most common mistake among cautious riders: you lose unnecessary speed, enter slowly, and often compensate by snapping the throttle open on exit to \"make up time\" — trading one risk for a new one."
+    ],
+    [
+     "p",
+     "<strong>Hitting the apex too soon.</strong> It feels \"more aggressive\", but it actually closes the corner and forces a wider exit line, often right when visibility of the rest of the road is most limited."
+    ],
+    [
+     "p",
+     "<strong>Timid or jerky throttle.</strong> Reopening the throttle too little leaves the bike \"hanging\" and unsettled on exit; snapping it open after an uncertain entry destabilises it the other way. In both cases the issue isn't \"how much throttle\" — it's how progressive it is."
+    ],
+    [
+     "p",
+     "These mistakes keep repeating because, while riding, there's no way to notice them in the moment: the feeling in the saddle can't tell a braking point that was ten metres too early from a perfect one. That comparison has to happen after, not during."
+    ],
+    [
+     "h2",
+     "Practical drills to work on one phase at a time"
+    ],
+    [
+     "p",
+     "The most effective way to train isn't \"ride more\" in a general sense, but dedicating an entire ride to a single phase. One ride focused only on braking progressiveness, another focused only on the apex. Trying to improve everything at once spreads your attention thin and slows progress on each element."
+    ],
+    [
+     "p",
+     "A simple drill: pick three corners you know well, of different types (tight, fast, uphill or downhill), and for a whole ride focus only on where you start braking relative to a fixed reference — a sign, a junction, a tree. Don't try to go faster: try only to be more consistent, corner after corner."
+    ],
+    [
+     "h2",
+     "How to tell if you're actually improving"
+    ],
+    [
+     "p",
+     "The most reliable way to know if a drill is working is comparing the same corner across different sessions, not lap to lap within the same ride. Consistency shows up over time, not in a single pass."
+    ],
+    [
+     "p",
+     "This is where a <a href=\"/product\">review after every ride</a> makes the difference versus just \"feeling\" improved: you can see whether your braking point on that specific corner has genuinely moved in the right direction over the last few weeks, or whether you're just repeating the same pattern with more perceived confidence."
+    ]
+   ],
+   "faq": [
+    [
+     "What's the most common cornering mistake for new riders?",
+     "Braking too early and too abruptly, often followed by jerky acceleration on exit to make up the lost speed. It's a very common pattern because it comes from caution, not from a lapse in attention."
+    ],
+    [
+     "Is it better to practise on the road or on track?",
+     "Both have value: track lets you repeat the same corners safely many times, while road riding trains your ability to read corners you've never seen before. What matters is having clear feedback on what happened in each, regardless of where you ride."
+    ],
+    [
+     "How much does body position matter in a corner?",
+     "It matters, but it's often overrated relative to braking and throttle: perfect body position doesn't compensate for braking that started too late. It's worth working on braking and throttle first, then refining position."
+    ],
+    [
+     "Do I need a sportbike to improve my cornering?",
+     "No. The technique of braking, apex and progressive throttle applies to any type of motorcycle, from nakeds to adventure bikes. The setup changes, not the principles."
+    ]
+   ],
+   "cta_h": "Want to know which phase is actually slowing you down?",
+   "cta_p": "With APEX you get a corner-by-corner review after every ride, with one single priority to work on next time out.",
+   "description": "How to improve cornering: the anatomy of a well-ridden corner, the common braking, line and throttle errors, and how to measure progress."
+  },
+  "it": {
+   "title": "Come migliorare in curva in moto",
+   "eyebrow": "",
+   "lead": "Migliorare in curva significa lavorare su tre fasi separate — frenata in ingresso, punto di corda, apertura del gas in uscita — una alla volta, con un riscontro chiaro su quale delle tre sta effettivamente perdendo tempo o sicurezza. Provare a \"migliorare in generale\" senza isolare la fase giusta è il motivo per cui molti rider restano fermi allo stesso livello per anni.",
+   "blocks": [
+    [
+     "h2",
+     "Anatomia di una curva ben percorsa"
+    ],
+    [
+     "p",
+     "Ogni curva si divide in tre fasi che vanno giudicate separatamente. <strong>L'ingresso</strong>: la frenata inizia al punto giusto (né troppo presto, che ti fa perdere tempo e ti fa entrare piano, né troppo tardi, che ti costringe a correggere in mezzo alla curva) e si rilascia in modo progressivo, non di colpo. <strong>Il punto di corda</strong>: dove la moto tocca il punto più interno della traiettoria — troppo presto \"chiude\" la curva e ti costringe ad allargare in uscita, troppo tardi ti fa entrare più larghi del necessario. <strong>L'uscita</strong>: quanto e quanto in fretta riapri il gas, che determina sia la velocità con cui esci sia quanto la moto è stabile mentre lo fai."
+    ],
+    [
+     "p",
+     "La maggior parte dei rider pensa alla curva come un'unica azione fluida. In realtà è una sequenza di tre decisioni, e il problema quasi sempre sta in una sola di queste tre — non in tutte e tre insieme. Isolare quale sia il tuo punto debole reale è il primo passo per lavorarci davvero."
+    ],
+    [
+     "h2",
+     "Gli errori più comuni, e perché si ripetono"
+    ],
+    [
+     "p",
+     "<strong>Frenare troppo presto.</strong> È l'errore più diffuso tra chi guida per prudenza: si perde velocità inutile, si entra piano, e spesso si compensa aprendo il gas troppo bruscamente in uscita per \"recuperare\", il che introduce un rischio nuovo al posto di quello vecchio."
+    ],
+    [
+     "p",
+     "<strong>Anticipare l'apex.</strong> Toccare il punto di corda troppo presto sembra \"più aggressivo\", ma in realtà chiude la curva e costringe ad allargare la traiettoria in uscita, spesso proprio quando la visibilità sul resto della strada è più limitata."
+    ],
+    [
+     "p",
+     "<strong>Gas timido o gas a scatti.</strong> Riaprire il gas troppo poco lascia la moto \"appesa\" e instabile in uscita; riaprirlo di colpo, dopo un ingresso incerto, la destabilizza nella direzione opposta. In entrambi i casi il problema non è \"quanto gas\", ma quanto è progressivo."
+    ],
+    [
+     "p",
+     "Questi errori si ripetono perché, guidando, non c'è modo di accorgersene nell'istante: la sensazione in sella non distingue una frenata dieci metri troppo presto da una frenata perfetta. Serve un confronto dopo, non durante."
+    ],
+    [
+     "h2",
+     "Esercizi pratici per lavorare su una fase alla volta"
+    ],
+    [
+     "p",
+     "Il modo più efficace di allenarsi non è \"guidare di più\" in modo generico, ma dedicare un'uscita intera a una sola fase. Un'uscita concentrata solo sulla progressività della frenata, un'altra concentrata solo sul punto di corda. Provare a migliorare tutto insieme diluisce l'attenzione e rende più lento il progresso su ciascun elemento."
+    ],
+    [
+     "p",
+     "Un esercizio semplice: scegli tre curve che conosci bene, di tipologia diversa (stretta, veloce, in salita o discesa), e per un'intera uscita concentrati solo su dove inizi a frenare rispetto a un riferimento fisso — un cartello, un incrocio, un albero. Non cercare di essere più veloce: cerca solo di essere più consistente, curva dopo curva."
+    ],
+    [
+     "h2",
+     "Come misurare se stai davvero migliorando"
+    ],
+    [
+     "p",
+     "Il modo più affidabile per sapere se un esercizio sta funzionando è confrontare la stessa curva tra sessioni diverse, non tra un giro e l'altro nella stessa uscita. La consistenza si vede nel tempo, non in un singolo passaggio."
+    ],
+    [
+     "p",
+     "È qui che una <a href=\"/it/prodotto\">review dopo ogni uscita</a> fa la differenza rispetto al \"sentirsi\" migliorati: puoi vedere se il punto di frenata su quella curva specifica si è davvero spostato nella direzione giusta nelle ultime settimane, o se stai solo ripetendo lo stesso schema con più sicurezza percepita."
+    ]
+   ],
+   "faq": [
+    [
+     "Qual è l'errore più comune in curva per chi guida da poco?",
+     "Frenare troppo presto e troppo bruscamente, spesso seguito da un'accelerazione a scatti in uscita per compensare la velocità persa. È un pattern molto diffuso perché nasce dalla prudenza, non da un errore di distrazione."
+    ],
+    [
+     "Meglio allenarsi su strada o in pista?",
+     "Entrambi hanno valore: la pista permette di ripetere le stesse curve più volte in sicurezza, la strada allena la lettura di curve sempre diverse. L'importante è avere un riscontro chiaro su cosa è successo in ciascuna, indipendentemente da dove guidi."
+    ],
+    [
+     "Quanto conta la posizione del corpo in curva?",
+     "Conta, ma viene spesso sopravvalutata rispetto a frenata e gas: una posizione del corpo perfetta non compensa una frenata iniziata troppo tardi. Conviene lavorare prima su frenata e apertura del gas, poi rifinire la posizione."
+    ],
+    [
+     "Serve una moto sportiva per migliorare in curva?",
+     "No. La tecnica di frenata, punto di corda e gas progressivo si applica a qualsiasi tipo di moto, dalla naked all'adventure. Cambia l'assetto, non i principi."
+    ]
+   ],
+   "cta_h": "Vuoi sapere quale fase ti sta davvero rallentando?",
+   "cta_p": "Con APEX ricevi una review curva per curva dopo ogni uscita, con una sola priorità su cui lavorare al giro successivo.",
+   "description": "Come migliorare in curva in moto: anatomia di una curva ben percorsa, gli errori su frenata, linea e gas, e come misurare i progressi."
+  },
+  "slug_it": "migliorare-in-curva-in-moto",
+  "topic": "technique"
+ },
+ "motorcycle-telemetry-road": {
+  "en": {
+   "title": "What is motorcycle telemetry for road riding",
+   "eyebrow": "",
+   "lead": "Motorcycle telemetry is the measurement of how you ride — lean angle, acceleration, GPS trajectory, braking — traditionally reserved for the track and race teams. Applied to the road, that same measurement lets you get objective feedback on everyday rides too, not just during a timed track day.",
+   "blocks": [
+    [
+     "h2",
+     "Track telemetry vs road telemetry"
+    ],
+    [
+     "p",
+     "In motorsport, telemetry has existed for decades: teams collect data on every lap to optimise lap times, setup and race strategy. It's a world of dedicated sensors, trackside engineers and specialised software — accessible in practice almost only to professional or semi-professional racers."
+    ],
+    [
+     "p",
+     "Applied to everyday riding, the goal changes: it's not about optimising a lap time, but about making your normal riding legible — weekend mountain roads, city traffic, a ride with friends. The goal isn't absolute performance, it's awareness."
+    ],
+    [
+     "h2",
+     "What actually gets measured"
+    ],
+    [
+     "p",
+     "Three categories of data matter more than the rest for understanding how you ride. <strong>Lean angle</strong>: how far the bike is leaned at any instant — a direct indicator of how much of a corner's potential you're using, or leaving on the table. <strong>Acceleration</strong> across all axes, which tells the story of braking and throttle with a precision the feeling in the saddle simply can't match. <strong>GPS trajectory</strong>: exactly where you passed relative to the road, corner by corner."
+    ],
+    [
+     "p",
+     "None of these three, on its own, says much. It's how they're read together — where you started braking, how far leaned you were at that point, where the wheel actually tracked — that turns raw numbers into a concrete lesson on what to improve."
+    ],
+    [
+     "h2",
+     "Why the bike's stock electronics aren't enough"
+    ],
+    [
+     "p",
+     "A common question: \"doesn't my bike already have all these sensors?\" Partly, yes — but what a motorcycle's diagnostic port (OBD) exposes by default is mostly emissions-related fault codes, not lean angle, not GPS trajectory, not fine-grained acceleration on every axis. That data simply isn't something stock electronics are built to share in that form."
+    ],
+    [
+     "p",
+     "That's why the measurement useful for a review comes from dedicated sensors, purpose-built to capture lean angle, inertial data and trajectory — not from the bike's onboard electronics, which exist for a different purpose (running the engine safely, not analysing riding style)."
+    ],
+    [
+     "h2",
+     "From raw data to a readable review"
+    ],
+    [
+     "p",
+     "The value of telemetry for an everyday rider isn't in the numbers themselves — few people want to stare at a lateral acceleration graph after a day at work. It's in translating those numbers into something instantly understandable: this corner, this point, this one thing to fix."
+    ],
+    [
+     "p",
+     "That's the principle <a href=\"/product\">APEX</a> is built on: the kit collects the same kind of data used on track — line, braking, throttle — and turns it into a review readable in two minutes, corner by corner, without you having to interpret a graph yourself."
+    ],
+    [
+     "h2",
+     "More data doesn't help without the full picture"
+    ],
+    [
+     "p",
+     "Worth clearing up a common misconception: more sensors doesn't automatically mean more useful. A single isolated number — say, the maximum lean angle reached in a corner — says very little without knowing where in the corner it happened and what the bike was doing on braking and throttle at that same moment. It's the combination, read together, that produces a useful observation."
+    ]
+   ],
+   "faq": [
+    [
+     "Is telemetry only useful on track?",
+     "No. It started on track, but the same kind of measurement — lean, acceleration, trajectory — is just as useful on the road, where most riders spend most of their time."
+    ],
+    [
+     "Isn't a phone's GPS accurate enough for trajectory?",
+     "A phone's GPS isn't precise enough to distinguish your real line corner by corner: typical errors run several metres, while the differences that matter in riding are measured in centimetres."
+    ],
+    [
+     "Why isn't plugging into the bike's ECU enough?",
+     "A motorcycle's diagnostic port is mainly designed to read emissions-related fault codes, not to expose data like lean angle or trajectory: dedicated sensors are needed to capture that kind of information."
+    ],
+    [
+     "Do I need to install something on the bike?",
+     "Yes: a kit with dedicated sensors, mounted on the bike, is how this kind of data is reliably collected. With APEX, installation is included in the pack price."
+    ]
+   ],
+   "cta_h": "Want your riding data turned into a readable review?",
+   "cta_p": "The APEX kit collects line, braking and throttle on every ride and turns it into a clear review — not a graph to interpret.",
+   "description": "What motorcycle telemetry means on the road: what is measured, why the bike's OBD port isn't enough, and how data becomes a readable review."
+  },
+  "it": {
+   "title": "Cos'è la telemetria moto per la strada",
+   "eyebrow": "",
+   "lead": "La telemetria moto è la misurazione di come guidi — inclinazione in curva, accelerazioni, traiettoria GPS, frenata — tradizionalmente riservata alla pista e ai team corse. Applicata alla strada, la stessa misurazione permette di avere un feedback oggettivo anche sulle uscite di tutti i giorni, non solo durante un track day cronometrato.",
+   "blocks": [
+    [
+     "h2",
+     "Telemetria da pista vs telemetria da strada"
+    ],
+    [
+     "p",
+     "Nel motorsport, la telemetria esiste da decenni: i team raccolgono dati su ogni giro per ottimizzare tempi sul giro, assetto, strategia gara. È un mondo fatto di sensori dedicati, ingegneri di pista e software specializzati — accessibile praticamente solo a chi corre a livello professionale o semi-professionale."
+    ],
+    [
+     "p",
+     "Applicata alla guida di tutti i giorni, la logica cambia obiettivo: non si tratta di ottimizzare un tempo sul giro, ma di rendere leggibile come guidi normalmente — sui passi di montagna nel weekend, nel traffico cittadino, in un giro con gli amici. L'obiettivo non è la performance assoluta, è la consapevolezza."
+    ],
+    [
+     "h2",
+     "Cosa si misura davvero"
+    ],
+    [
+     "p",
+     "Tre categorie di dati contano più delle altre per capire come guidi. <strong>L'angolo di piega</strong>, cioè quanto la moto è inclinata in ogni istante — indicatore diretto di quanto stai sfruttando (o sprecando) il potenziale di una curva. <strong>L'accelerazione</strong> su tutti gli assi, che racconta frenata e apertura del gas con una precisione che la sensazione in sella non può dare. <strong>La traiettoria GPS</strong>, cioè dove sei passato esattamente rispetto alla strada, curva dopo curva."
+    ],
+    [
+     "p",
+     "Nessuno di questi tre dati, da solo, dice molto. È il modo in cui vengono letti insieme — dove hai iniziato a frenare, quanto ti sei inclinato in quel punto, dove è passata la ruota — che trasforma numeri grezzi in una lezione concreta su cosa migliorare."
+    ],
+    [
+     "h2",
+     "Perché l'elettronica di serie della moto non basta"
+    ],
+    [
+     "p",
+     "Un dubbio comune: \"la mia moto non ha già tutti questi sensori?\". In parte sì, ma quello che la porta di diagnosi (OBD) della moto espone di serie riguarda soprattutto i codici di errore legati alle emissioni — non l'angolo di piega, non la traiettoria GPS, non l'accelerazione fine per ogni asse. Sono dati che, semplicemente, l'elettronica di serie non è progettata per condividere in quel formato."
+    ],
+    [
+     "p",
+     "Per questo la misurazione utile alla review viene da sensori dedicati, pensati apposta per catturare lean angle, IMU e traiettoria — non dall'elettronica di bordo della moto, che ha uno scopo diverso (far funzionare il motore in sicurezza, non analizzare lo stile di guida)."
+    ],
+    [
+     "h2",
+     "Da dati grezzi a review leggibile"
+    ],
+    [
+     "p",
+     "Il valore della telemetria per un rider normale non sta nei numeri in sé — pochi vogliono guardare un grafico di accelerazione laterale dopo una giornata di lavoro. Sta nella traduzione di quei numeri in qualcosa di immediatamente comprensibile: questa curva, questo punto, questa correzione da fare."
+    ],
+    [
+     "p",
+     "È il principio su cui è costruito <a href=\"/it/prodotto\">APEX</a>: il kit raccoglie gli stessi tipi di dati usati in pista — linea, frenata, gas — e li restituisce come una review leggibile in due minuti, curva per curva, senza che tu debba interpretare un grafico da solo."
+    ]
+   ],
+   "faq": [
+    [
+     "La telemetria serve solo in pista?",
+     "No. È nata in pista, ma lo stesso tipo di misurazione — inclinazione, accelerazione, traiettoria — è altrettanto utile su strada, dove la maggior parte dei rider guida la maggior parte del tempo."
+    ],
+    [
+     "Il GPS del telefono non basta per la traiettoria?",
+     "Il GPS di un telefono ha una precisione insufficiente per distinguere la tua linea reale curva per curva: gli errori tipici sono di diversi metri, mentre le differenze che contano nella guida si misurano in centimetri."
+    ],
+    [
+     "Perché non basta collegarsi alla centralina della moto?",
+     "La porta diagnostica delle moto è pensata principalmente per leggere codici di errore legati alle emissioni, non per esporre dati come l'angolo di piega o la traiettoria: servono sensori dedicati per catturare quel tipo di informazione."
+    ],
+    [
+     "Serve installare qualcosa sulla moto?",
+     "Sì: un kit con sensori dedicati, montato sulla moto, è il modo in cui si raccoglie questo tipo di dato in modo affidabile. Con APEX l'installazione è inclusa nel prezzo del pack."
+    ]
+   ],
+   "cta_h": "Vuoi che i dati della tua guida diventino una review leggibile?",
+   "cta_p": "Il kit APEX raccoglie linea, frenata e gas su ogni uscita e li restituisce come una review chiara, non come un grafico da interpretare.",
+   "description": "Cos'è la telemetria moto applicata alla strada: cosa si misura, perché l'OBD non basta e come i dati diventano una review leggibile."
+  },
+  "slug_it": "telemetria-moto-stradale",
+  "topic": "data"
+ },
+ "riding-coach-cost": {
+  "en": {
+   "title": "How much does a riding coach or course cost",
+   "eyebrow": "",
+   "lead": "Riding courses vary widely depending on length and format — from a single sensitisation day to a structured multi-session programme — and the price mostly reflects booked track or range time and the presence of certified instructors. It's a worthwhile investment, but for most riders it's almost always a once-a-year event, not continuous feedback.",
+   "blocks": [
+    [
+     "h2",
+     "What determines the price of a course"
+    ],
+    [
+     "p",
+     "The cost of a riding course mostly depends on four factors: duration (half a day costs less than a full weekend), venue type (a closed test range costs less than a racetrack), the instructor-to-student ratio (smaller groups with more individual attention cost more), and whether the price includes use of the school's bikes or requires your own."
+    ],
+    [
+     "p",
+     "In general, road-focused safety courses tend to cost less than track-focused sportive riding courses, because they require less logistics and less rented facility time. Multi-day programmes or ones with personalised follow-up over time sit at a higher price point."
+    ],
+    [
+     "h2",
+     "What you typically get"
+    ],
+    [
+     "p",
+     "Most courses include: a theory portion (bike physics, trajectories, risk management), practical exercises led by instructors, and in some cases an end-of-day debrief with personalised observations. The main value is having someone who genuinely watches how you ride — with a trained eye — and tells you what to correct on the spot."
+    ],
+    [
+     "p",
+     "That's exactly the kind of feedback most riders normally lack: an external observer who notices things you, in the saddle, simply can't."
+    ],
+    [
+     "h2",
+     "The practical limit: frequency"
+    ],
+    [
+     "p",
+     "The issue isn't the quality of courses — it's how often you actually take one. Most riders do one per year, at best. Between courses, for the other eleven months, it's back to riding with no objective feedback at all, relying only on feeling."
+    ],
+    [
+     "p",
+     "It's as if a tennis player trained with a coach once a year and, the rest of the time, played matches without ever reviewing a single video. The observation you get on a course day is valuable, but isolated: progress requires repetition, not a single intensive event."
+    ],
+    [
+     "h2",
+     "The alternative: feedback on every ride, not once a year"
+    ],
+    [
+     "p",
+     "The way to close that gap between courses is to have structured feedback on every ordinary ride, not just the one dedicated to training. That's the principle behind <a href=\"/product\">APEX</a>: a review after every ride — line, braking, throttle, corner by corner — with a one-time price that includes the kit, installation and 12 months, instead of a single yearly event."
+    ],
+    [
+     "p",
+     "It doesn't replace an in-person instructor: it complements one, bringing the same kind of objective observation into everyday rides too — the ones that normally go without any feedback at all."
+    ],
+    [
+     "h2",
+     "How to judge whether a course is worth the price"
+    ],
+    [
+     "p",
+     "Before booking, three useful questions: how many students per instructor (fewer means more attention on you); whether the final debrief is personalised or generic for the whole group; and whether the school offers any form of follow-up, even minimal, or the relationship ends when the day does."
+    ],
+    [
+     "p",
+     "A course with a personalised debrief and small groups is almost always worth a higher price than a crowded one with generic remarks: the difference isn't in the theory — often identical — but in how specific that feedback ends up being to you."
+    ]
+   ],
+   "faq": [
+    [
+     "Is a one-day course enough for steady improvement?",
+     "A one-day course gives a useful foundation and immediate corrections, but on its own it rarely produces lasting improvement: it takes repetition over time for corrections to become habit."
+    ],
+    [
+     "Is a track course or a road course better value?",
+     "It depends on your goal: a track course suits riders who want to work on speed and trajectories safely, while a road course suits riders who want to improve everyday riding, including traffic and real-world conditions."
+    ],
+    [
+     "How often should you take a course to see results?",
+     "Ideally more than once a year, but for most riders that's unrealistic in time and cost. That's why continuous feedback between courses makes a meaningful practical difference."
+    ],
+    [
+     "Does APEX replace a riding course?",
+     "No, it complements one. A course offers an expert instructor in a controlled setting; APEX offers a review after every ordinary ride, so the feedback doesn't stop when the course ends."
+    ]
+   ],
+   "cta_h": "Want feedback after every ride, not just once a year?",
+   "cta_p": "The APEX price includes the kit, installation and 12 months of reviews — a single one-time cost, not a monthly subscription.",
+   "description": "What a motorcycle riding course costs, what it typically includes, its practical limits, and how to get feedback more than once a year."
+  },
+  "it": {
+   "title": "Quanto costa un corso di guida moto",
+   "eyebrow": "",
+   "lead": "I corsi di guida sicura o pilotaggio in Italia variano molto in base a durata e formato — da una giornata di sensibilizzazione a un percorso strutturato su più uscite — e il prezzo riflette soprattutto le ore di pista o campo prenotate e la presenza di istruttori certificati. È un investimento che vale la pena fare, ma quasi sempre è un evento isolato nell'anno, non un feedback continuo.",
+   "blocks": [
+    [
+     "h2",
+     "Cosa determina il prezzo di un corso"
+    ],
+    [
+     "p",
+     "Il costo di un corso di guida dipende soprattutto da quattro fattori: la durata (una mezza giornata costa meno di un weekend), il tipo di location (un campo prove costa meno di un autodromo), il rapporto istruttori/allievi (i corsi con gruppi piccoli e più attenzione individuale costano di più), e se il prezzo include l'uso di moto del centro oppure richiede la tua."
+    ],
+    [
+     "p",
+     "In generale, i corsi di guida sicura pensati per la strada tendono a costare meno di quelli di guida sportiva in pista, perché richiedono meno logistica e meno ore di noleggio impianto. I percorsi con più giornate o con follow-up personalizzato nel tempo si collocano su una fascia di prezzo più alta."
+    ],
+    [
+     "h2",
+     "Cosa ricevi tipicamente"
+    ],
+    [
+     "p",
+     "La maggior parte dei corsi include: una parte teorica (fisica della moto, traiettorie, gestione del rischio), esercizi pratici guidati da istruttori, e in alcuni casi un debrief a fine giornata con osservazioni personalizzate. Il valore principale è avere qualcuno che guarda davvero come guidi — con occhio esperto — e ti dice cosa correggere sul momento."
+    ],
+    [
+     "p",
+     "È esattamente il tipo di feedback che normalmente manca a chi guida per conto proprio: un osservatore esterno che nota cose che tu, in sella, non puoi notare."
+    ],
+    [
+     "h2",
+     "Il limite pratico: la frequenza"
+    ],
+    [
+     "p",
+     "Il problema non è la qualità dei corsi — è quanto spesso li fai. La maggior parte dei rider fa un corso l'anno, quando va bene. Tra un corso e l'altro, per undici mesi, si torna al punto di partenza: guidare senza nessun riscontro oggettivo, affidandosi solo alla sensazione."
+    ],
+    [
+     "p",
+     "È come se un tennista si allenasse con un coach una volta l'anno e per il resto giocasse partite senza mai rivedere un video. L'osservazione di un corso è preziosa, ma isolata: il progresso richiede ripetizione, non un singolo evento intensivo."
+    ],
+    [
+     "h2",
+     "L'alternativa: feedback ad ogni uscita, non una volta l'anno"
+    ],
+    [
+     "p",
+     "Il modo per colmare quel vuoto tra un corso e l'altro è avere un riscontro strutturato su ogni uscita normale, non solo su quella dedicata alla formazione. È il principio dietro <a href=\"/it/prodotto\">APEX</a>: una review dopo ogni giro — linea, frenata, gas, curva per curva — con un prezzo unico che include kit, installazione e 12 mesi, invece di un evento isolato una volta l'anno."
+    ],
+    [
+     "p",
+     "Non sostituisce un corso con istruttore in carne e ossa: lo completa, portando lo stesso tipo di osservazione oggettiva anche nelle uscite di tutti i giorni, quelle che normalmente restano senza nessun feedback."
+    ]
+   ],
+   "faq": [
+    [
+     "Un corso di un giorno basta per migliorare stabilmente?",
+     "Un corso di un giorno dà una base utile e correzioni immediate, ma da solo raramente produce un miglioramento stabile: serve ripetizione nel tempo perché le correzioni diventino abitudine."
+    ],
+    [
+     "Conviene di più un corso in pista o su strada?",
+     "Dipende dall'obiettivo: un corso in pista è più indicato per chi vuole lavorare su velocità e traiettorie in sicurezza, uno su strada per chi vuole migliorare la guida quotidiana, inclusa la gestione del traffico e delle condizioni reali."
+    ],
+    [
+     "Quanto spesso andrebbe fatto un corso per vedere risultati?",
+     "Idealmente più di una volta l'anno, ma per la maggior parte dei rider è poco realistico per tempo e costo. Per questo un feedback continuo tra un corso e l'altro fa una differenza pratica importante."
+    ],
+    [
+     "APEX sostituisce un corso di guida?",
+     "No, lo completa. Un corso offre un istruttore esperto in un contesto controllato; APEX offre una review dopo ogni uscita normale, così il feedback non si ferma quando il corso finisce."
+    ]
+   ],
+   "cta_h": "Vuoi un riscontro dopo ogni uscita, non solo una volta l'anno?",
+   "cta_p": "Il prezzo APEX include kit, installazione e 12 mesi di review — un'unica spesa, non un abbonamento mensile.",
+   "description": "Quanto costa un corso di guida moto, cosa include davvero, i suoi limiti pratici e come avere feedback più spesso di una volta l'anno."
+  },
+  "slug_it": "quanto-costa-un-corso-di-guida-moto",
+  "topic": "coaching"
+ },
+ "first-track-day-guide": {
+  "en": {
+   "title": "First track day: how to prepare",
+   "eyebrow": "",
+   "lead": "Preparing well for your first track day is mostly about managing expectations: it's not a day to chase lap times, but to get used to a controlled environment, follow the group briefing rules, and leave with one concrete thing to improve — not just the adrenaline of the day.",
+   "blocks": [
+    [
+     "h2",
+     "What to bring and check beforehand"
+    ],
+    [
+     "p",
+     "Besides the gear the circuit requires (a one-piece or zipped two-piece suit, approved gloves and boots, often a certified full-face helmet), it's worth checking the bike in the days before, not the morning of: tyre pressure, fluid levels, brake and chain wear. A mechanical issue discovered on track costs far more time — and sometimes safety — than one caught at home."
+    ],
+    [
+     "p",
+     "Most circuits require mirrors to be taped over or removed, and lights and indicators taped up: it's a safety rule, not a cosmetic detail, meant to reduce the risk in case of a fall."
+    ],
+    [
+     "h2",
+     "The briefing and group rules"
+    ],
+    [
+     "p",
+     "Almost every beginner track day splits riders into groups by level (often novice, intermediate, advanced) and starts with a mandatory briefing on flags, where overtaking is allowed, and what to do in case of a fall or a stopped bike on track. Listen carefully even if it feels repetitive: these are the rules that keep the day safe for everyone."
+    ],
+    [
+     "p",
+     "A common beginner mistake is overestimating your own group to \"not look slow\": signing up for the right group, even a more cautious one, is almost always the better choice for learning without the added risk of being caught out by faster riders around you."
+    ],
+    [
+     "h2",
+     "The most common beginner mistakes"
+    ],
+    [
+     "p",
+     "<strong>Pushing too hard in the first laps.</strong> Tyres and brakes need a few laps to reach temperature; pushing hard from lap one, while everything is still cold, is one of the most common and most risky mistakes."
+    ],
+    [
+     "p",
+     "<strong>Watching the mirror instead of the road ahead.</strong> Fear of being overtaken makes many beginners look back exactly at the points that need the most attention forward — corner entry, the braking point."
+    ],
+    [
+     "p",
+     "<strong>Chasing a faster rider instead of your own pace.</strong> Following someone quicker pushes you to copy lines and timing that aren't within your reach yet, with the risk of a mistake right at the corner's most delicate point."
+    ],
+    [
+     "h2",
+     "How to leave with something useful, not just adrenaline"
+    ],
+    [
+     "p",
+     "The easiest thing to lose at a track day is a precise memory of what happened in each session: after three or four sessions, the sensations blur together and all that's left is a general impression — \"it went well\" — without really knowing which corner worked and which didn't."
+    ],
+    [
+     "p",
+     "Having objective feedback for each session, instead of relying on memory at the end of the day, is what turns a track day from an isolated experience into a step in an ongoing improvement path. That's the same principle behind <a href=\"/product\">APEX</a>: a review after every session, on track just as on the road, with a clear priority to work on next session or next ride."
+    ],
+    [
+     "h2",
+     "After the day: what to do with what you learned"
+    ],
+    [
+     "p",
+     "The value of a first track day doesn't end with the weekend: the sensations and the few corrections you got on track apply off it too, on weekend mountain roads or a ride with friends. The risk is letting them fade from memory within a few days — exactly what happens with a single road ride and no feedback at all."
+    ]
+   ],
+   "faq": [
+    [
+     "Do I need a specific bike for my first track day?",
+     "No, most circuits accept standard road bikes, provided they're in good mechanical condition and fitted with the required safety gear. Some schools also offer rental bikes for riders who'd rather not risk their own."
+    ],
+    [
+     "How many sessions do you typically get in a day?",
+     "It varies a lot by circuit and format, but several 15-20 minute sessions, spaced with breaks, is common. Always check the exact number with the organiser of the specific track day."
+    ],
+    [
+     "Is the briefing mandatory?",
+     "Yes, at almost every circuit the initial briefing is mandatory before you're allowed on track, regardless of your stated experience level."
+    ],
+    [
+     "Is it better to do your first track day alone or with someone else?",
+     "Going with someone more experienced helps you understand the day's dynamics better, but it's not essential: briefings and instructors at organised events are specifically built for riders showing up for the first time without a guide."
+    ]
+   ],
+   "cta_h": "Want to bring home a review, not just the memory of the day?",
+   "cta_p": "With APEX, every track session or road ride becomes a clear review, with one priority to work on next time.",
+   "description": "How to prepare for your first track day: what to bring, how the briefing works, the common beginner mistakes, and what to take home."
+  },
+  "it": {
+   "title": "Primo track day: come prepararsi",
+   "eyebrow": "",
+   "lead": "Prepararsi bene al primo track day significa soprattutto gestire le aspettative: non è un giorno per inseguire il tempo sul giro, ma per abituarsi a un ambiente controllato, seguire il briefing sulle regole di gruppo, e uscire con qualcosa di concreto da migliorare — non solo con l'adrenalina della giornata.",
+   "blocks": [
+    [
+     "h2",
+     "Cosa portare e cosa controllare prima"
+    ],
+    [
+     "p",
+     "Oltre all'equipaggiamento richiesto dal circuito (tuta integrale, guanti e stivali omologati, spesso un casco integrale certificato), vale la pena controllare la moto nei giorni prima, non la mattina stessa: pressione gomme, livello e stato dei liquidi, usura freni e catena. Un problema meccanico scoperto in pista costa molto più tempo — e a volte sicurezza — che scoprirlo a casa."
+    ],
+    [
+     "p",
+     "Molti circuiti richiedono di coprire o rimuovere gli specchietti e proteggere fari e frecce con nastro: è una regola di sicurezza, non un dettaglio estetico, pensata per il caso di caduta."
+    ],
+    [
+     "h2",
+     "Il briefing e le regole di gruppo"
+    ],
+    [
+     "p",
+     "Quasi tutti i track day per principianti dividono i partecipanti in gruppi per livello (spesso base, intermedio, avanzato) e iniziano con un briefing obbligatorio sulle bandiere, sui punti di sorpasso consentiti e sul comportamento in caso di caduta o di moto ferma in pista. Va ascoltato con attenzione anche se sembra ripetitivo: sono le regole che tengono la giornata sicura per tutti."
+    ],
+    [
+     "p",
+     "Un errore comune dei principianti è sopravvalutare il proprio gruppo per \"non sembrare lento\": iscriversi al gruppo giusto, anche se più cauto, è quasi sempre la scelta migliore per imparare senza il rischio aggiuntivo di essere sorpresi da chi guida più forte intorno a te."
+    ],
+    [
+     "h2",
+     "Gli errori più comuni dei principianti"
+    ],
+    [
+     "p",
+     "<strong>Spingere troppo nei primi giri.</strong> Le gomme e i freni hanno bisogno di qualche giro per arrivare in temperatura; spingere da subito, a freddo, è uno degli errori più rischiosi e più comuni."
+    ],
+    [
+     "p",
+     "<strong>Guardare lo specchietto invece della strada davanti.</strong> Il timore di essere sorpassati porta molti principianti a guardare indietro proprio nei punti in cui servirebbe la massima attenzione in avanti — ingresso curva, punto di frenata."
+    ],
+    [
+     "p",
+     "<strong>Inseguire chi va più forte, invece del proprio ritmo.</strong> Seguire una moto più veloce spinge a copiare traiettorie e tempi che non sono ancora alla tua portata, con il rischio di un errore proprio nel punto più delicato della curva."
+    ],
+    [
+     "h2",
+     "Come portarsi a casa qualcosa di utile, non solo adrenalina"
+    ],
+    [
+     "p",
+     "La parte più facile da perdere in un track day è il ricordo preciso di cosa è successo in ogni sessione: dopo tre o quattro turni, le sensazioni si mescolano e resta un'impressione generale — \"è andata bene\" — senza sapere davvero quale curva ha funzionato e quale no."
+    ],
+    [
+     "p",
+     "Avere un riscontro oggettivo per ogni turno, invece che affidarsi al ricordo a fine giornata, è quello che trasforma un track day da esperienza isolata a passo di un percorso di miglioramento. È lo stesso principio dietro <a href=\"/it/prodotto\">APEX</a>: una review dopo ogni sessione, in pista come su strada, con una priorità chiara su cui lavorare al turno o all'uscita successiva."
+    ]
+   ],
+   "faq": [
+    [
+     "Serve una moto specifica per il primo track day?",
+     "No, la maggior parte dei circuiti accetta moto stradali standard, purché in buone condizioni meccaniche e con l'equipaggiamento di sicurezza richiesto. Alcuni centri offrono anche moto a noleggio per chi non vuole rischiare la propria."
+    ],
+    [
+     "Quanti giri o turni si fanno di solito in una giornata?",
+     "Varia molto in base al circuito e al formato, ma è comune avere diversi turni di 15-20 minuti ciascuno, intervallati da pause. Il numero esatto va sempre verificato con l'organizzatore del track day specifico."
+    ],
+    [
+     "È obbligatorio seguire il briefing?",
+     "Sì, in quasi tutti i circuiti il briefing iniziale è obbligatorio per poter scendere in pista, indipendentemente dal livello di esperienza dichiarato."
+    ],
+    [
+     "Conviene fare il primo track day da soli o con qualcuno?",
+     "Andare con qualcuno più esperto aiuta a capire meglio le dinamiche della giornata, ma non è indispensabile: i briefing e gli istruttori dei centri organizzati sono pensati apposta per chi arriva per la prima volta senza nessuno a fare da guida."
+    ]
+   ],
+   "cta_h": "Vuoi portarti a casa una review, non solo il ricordo della giornata?",
+   "cta_p": "Con APEX ogni turno in pista o uscita su strada diventa una review chiara, con una priorità su cui lavorare la volta dopo.",
+   "description": "Come prepararsi al primo track day in moto: cosa portare, come funziona il briefing, gli errori dei principianti e cosa portarsi a casa."
+  },
+  "slug_it": "primo-track-day-come-prepararsi",
+  "topic": "track"
+ }
+}
